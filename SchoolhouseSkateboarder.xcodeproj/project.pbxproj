@@ -15,6 +15,7 @@
 		A61E8A2222D3CA54004C2B6C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A61E8A2022D3CA54004C2B6C /* Main.storyboard */; };
 		A61E8A2422D3CA59004C2B6C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A61E8A2322D3CA59004C2B6C /* Assets.xcassets */; };
 		A61E8A2722D3CA59004C2B6C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A61E8A2522D3CA59004C2B6C /* LaunchScreen.storyboard */; };
+		A61E8A2F22D49D5F004C2B6C /* Skater.swift in Sources */ = {isa = PBXBuildFile; fileRef = A61E8A2E22D49D5F004C2B6C /* Skater.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		A61E8A2322D3CA59004C2B6C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A61E8A2622D3CA59004C2B6C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A61E8A2822D3CA59004C2B6C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A61E8A2E22D49D5F004C2B6C /* Skater.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Skater.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				A61E8A2322D3CA59004C2B6C /* Assets.xcassets */,
 				A61E8A2522D3CA59004C2B6C /* LaunchScreen.storyboard */,
 				A61E8A2822D3CA59004C2B6C /* Info.plist */,
+				A61E8A2E22D49D5F004C2B6C /* Skater.swift */,
 			);
 			path = SchoolhouseSkateboarder;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A61E8A1D22D3CA54004C2B6C /* GameScene.swift in Sources */,
+				A61E8A2F22D49D5F004C2B6C /* Skater.swift in Sources */,
 				A61E8A1F22D3CA54004C2B6C /* GameViewController.swift in Sources */,
 				A61E8A1722D3CA54004C2B6C /* AppDelegate.swift in Sources */,
 			);
